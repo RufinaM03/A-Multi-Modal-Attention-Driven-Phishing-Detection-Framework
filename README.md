@@ -12,6 +12,9 @@ Ref-TABMNet is an advanced phishing detection system leveraging reference-aware 
 - **Validation & Testing** – Integrated unit tests and validation scripts for robust development.
 - **Modular Architecture** – Clean separation of preprocessing, feature extraction, model training, and serving.
 
+Browser Extension Interface:
+<img width="1586" height="897" alt="image" src="https://github.com/user-attachments/assets/15e3e61f-ca9a-4ab3-b26d-a4a5ebdb2451" />
+
 ## Project Structure
 
 ```
@@ -138,4 +141,4 @@ For major changes, please open an issue first to discuss your proposal.
 
 ---
 
-Ref-TABMNet is designed for practical, scalable phishing detection research and deployment. For questions or support, please open an issue or contact the
+Ref-TABMNet is designed for practical, scalable phishing detection research and deployment. 
