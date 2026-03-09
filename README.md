@@ -80,7 +80,7 @@ Ref_TabMNet/
 ### 1. Clone the repository
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/RufinaM03/A-Multi-Modal-Attention-Driven-Phishing-Detection-Framework.git
 cd Ref_TabMNet
 ```
 
